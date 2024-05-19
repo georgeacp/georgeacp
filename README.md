@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋, I'm George, a passionate programmer with experience creating intuitive and efficient web applications. I love working with modern technologies and constantly learning to improve my skills.</h2>
+<h2 align="left">Hi 👋, I'm George</h2>
+A passionate programmer with experience creating intuitive and efficient web applications. I love working with modern technologies and constantly learning to improve my skills.
 
 ###
 
