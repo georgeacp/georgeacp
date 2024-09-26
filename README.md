@@ -4,7 +4,7 @@ A passionate programmer with experience creating intuitive and efficient web app
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeacp&theme=dracula&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeacp&theme=dracula&show_icons=true&hide_border=true&layout=compact" height="200" alt="languages graph"  />
 </div>
 
 
