@@ -1,58 +1,96 @@
-<h2 align="left">Hi 👋, I'm George</h2>
-A passionate programmer with experience creating intuitive and efficient web applications. I love working with modern technologies and constantly learning to improve my skills.
+# Hola, soy George 👋
 
-###
+<img align="right" src="img/Sunny2.jpg" width="150" alt="Sunny, un toque personal en mi perfil" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeacp&theme=dracula&show_icons=true&hide_border=true&layout=compact" height="200" alt="languages graph" />
-</div>
+Desarrollo aplicaciones web con React, Next.js y TypeScript. Me gusta convertir ideas en interfaces claras y conectar lo que ve el usuario con los datos que necesita.
 
-###
+Mis proyectos abarcan herramientas para docentes, aplicaciones de inventario y experiencias web. Aprendo construyendo y buscando formas de hacer que cada aplicación sea más sencilla de usar y mantener.
 
-<img align="right" src="img/Sunny2.jpg" style="height:150px; width:auto; max-width:100%;" alt="Foto de perfil" />
+[Proyectos](#proyectos-destacados) · [Tecnologías](#tecnologías) · [Contacto](#contacto)
 
-###
+<br clear="right" />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="30" style="max-width:30px; width:30px; height:30px;" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="30" style="max-width:30px; width:30px; height:30px;" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="30" style="max-width:30px; width:30px; height:30px;" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="30" style="max-width:30px; width:30px; height:30px;" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="30" style="max-width:30px; width:30px; height:30px;" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="30" style="max-width:30px; width:30px; height:30px;" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="30" style="max-width:30px; width:30px; height:30px;" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="30" style="max-width:30px; width:30px; height:30px;" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="30" style="max-width:30px; width:30px; height:30px;" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" width="30" style="max-width:30px; width:30px; height:30px;" alt="bash logo" />
-</div>
+## Proyectos destacados
 
-###
+### 📂 [Carpeta Docente UNT](https://github.com/georgeacp/carpeta-docente-unt)
 
-<div align="left">
-  <a href="https://www.instagram.com/georgeacp/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gc46529864@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/george-castillo-perez-08873330b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
+Proyecto de carpeta docente con una interfaz web y una API separada. Combina **Next.js** en el frontend y **FastAPI** en el backend.
 
-###
+### 📦 [Inventory App](https://github.com/georgeacp/inventory-app)
+
+Aplicación móvil para gestionar usuarios, productos, inventario y ventas, con generación de facturas por producto. Desarrollada con **React Native y Expo**.
+
+### 🌐 [Portafolio](https://github.com/georgeacp/portafolio)
+
+Sitio personal con secciones de presentación, experiencia, proyectos y contacto. Construido con **Astro**.
+
+[Ver todos mis repositorios públicos →](https://github.com/georgeacp?tab=repositories)
+
+## Tecnologías
+
+### Desarrollo web
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" alt="HTML5" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" alt="CSS3" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" alt="TypeScript" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" alt="React" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" height="30" alt="Next.js" />
+</p>
+
+HTML · CSS · JavaScript · TypeScript · React · Next.js
+
+### Bases de datos
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" alt="MySQL" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30" alt="PostgreSQL" />
+</p>
+
+MySQL · PostgreSQL
+
+### Lenguajes y terminal
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" alt="Python" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30" height="30" alt="Bash" />
+</p>
+
+Python · Bash
+
+## Mi enfoque
+
+- Crear interfaces intuitivas y prácticas.
+- Conectar interfaces, APIs y bases de datos para resolver necesidades concretas.
+- Seguir mejorando mis habilidades a través de proyectos.
+
+## Contacto
+
+¿Quieres conversar sobre un proyecto o intercambiar ideas? Puedes encontrarme aquí:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-castillo-perez-08873330b/)
+[![Correo](https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gc46529864@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/georgeacp/)
+
+## Mi actividad en GitHub
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgeacp&theme=dracula&hide_border=true&layout=compact&locale=es" width="350" alt="Lenguajes más utilizados en mis repositorios de GitHub" />
+
+### Mis contribuciones, en movimiento 🐍
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/georgeacp/georgeacp/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/georgeacp/georgeacp/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/georgeacp/georgeacp/output/github-contribution-grid-snake.svg" alt="Serpiente animada que recorre mis contribuciones de GitHub" width="100%" />
 </picture>
+
+<!-- La animación se actualiza a diario mediante .github/workflows/main.yml.
+     También se puede regenerar desde Actions con «Run workflow». -->
